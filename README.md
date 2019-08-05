@@ -5,3 +5,7 @@ Abordando
 Tecnologias: C#, Unity
 
 Documentação: não tem
+
+Protótipo: www.meuprototipo.com
+
+Estágio Atual: Front End pronto .. classes de modelo criadas
